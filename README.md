@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafid Remal
-- 👀 I’m interested in Programming ...
+- 👀 I’m interested in Programming
 - 📫 How to reach me
 
 <!---
